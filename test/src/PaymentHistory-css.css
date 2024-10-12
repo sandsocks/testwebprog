@@ -1,0 +1,20 @@
+.accordion-header{
+  background-color: '#f5ae52';
+  color: '#783719';
+  font-weight: 'bold'
+}
+
+.accordion-button{
+  background-color: '#f5ae52';
+  color: '#f5ae52';
+}
+
+.accordion-button collapsed{
+  background-color: '#f5ae52';
+  color: '#f5ae52';
+}
+
+.accordion-collapse collapse show{
+  background-color: '#f5ae52';
+  color: '#f5ae52';
+}
