@@ -9,7 +9,7 @@
   color: '#f5ae52';
 }
 
-.accordion-button collapsed{
+.accordion-button:active attribute{
   background-color: '#f5ae52';
   color: '#f5ae52';
 }
